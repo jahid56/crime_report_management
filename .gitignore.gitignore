@@ -1,0 +1,9 @@
+vendor/
+node_modules/
+
+# Laravel 5 & Lumen specific
+bootstrap/cache/
+
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
